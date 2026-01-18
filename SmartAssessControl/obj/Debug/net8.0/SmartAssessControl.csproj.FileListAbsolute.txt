@@ -1,0 +1,14 @@
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/SmartAssessControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/SmartAssessControl.AssemblyInfoInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/SmartAssessControl.AssemblyInfo.cs
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/SmartAssessControl.csproj.CoreCompileInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/bin/Debug/net8.0/SmartAssessControl
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/bin/Debug/net8.0/SmartAssessControl.deps.json
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/bin/Debug/net8.0/SmartAssessControl.runtimeconfig.json
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/bin/Debug/net8.0/SmartAssessControl.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/bin/Debug/net8.0/SmartAssessControl.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/SmartAssessControl.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/refint/SmartAssessControl.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/SmartAssessControl.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/SmartAssessControl.genruntimeconfig.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/SmartAssessControl/obj/Debug/net8.0/ref/SmartAssessControl.dll
