@@ -1,0 +1,15 @@
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.AssemblyInfoInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.AssemblyInfo.cs
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.csproj.CoreCompileInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.sourcelink.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/bin/Debug/net8.0/Day-8
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/bin/Debug/net8.0/Day-8.deps.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/bin/Debug/net8.0/Day-8.runtimeconfig.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/bin/Debug/net8.0/Day-8.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/bin/Debug/net8.0/Day-8.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/refint/Day-8.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/Day-8.genruntimeconfig.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8/obj/Debug/net8.0/ref/Day-8.dll
