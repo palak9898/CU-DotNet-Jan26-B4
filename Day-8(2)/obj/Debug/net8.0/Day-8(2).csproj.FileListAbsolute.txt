@@ -1,0 +1,15 @@
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/bin/Debug/net8.0/Day-8(2)
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/bin/Debug/net8.0/Day-8(2).deps.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/bin/Debug/net8.0/Day-8(2).runtimeconfig.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/bin/Debug/net8.0/Day-8(2).dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/bin/Debug/net8.0/Day-8(2).pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).AssemblyInfoInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).AssemblyInfo.cs
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).csproj.CoreCompileInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).sourcelink.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/refint/Day-8(2).dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/Day-8(2).genruntimeconfig.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Day-8(2)/obj/Debug/net8.0/ref/Day-8(2).dll
