@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DotNetPractice2/1.0.0": {
+        "runtime": {
+          "DotNetPractice2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetPractice2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

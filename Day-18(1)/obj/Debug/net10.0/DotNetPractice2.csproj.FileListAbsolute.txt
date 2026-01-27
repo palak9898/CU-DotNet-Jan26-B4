@@ -1,0 +1,14 @@
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/bin/Debug/net10.0/DotNetPractice2
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/bin/Debug/net10.0/DotNetPractice2.deps.json
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/bin/Debug/net10.0/DotNetPractice2.runtimeconfig.json
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/bin/Debug/net10.0/DotNetPractice2.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/bin/Debug/net10.0/DotNetPractice2.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/DotNetPractice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/DotNetPractice2.AssemblyInfoInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/DotNetPractice2.AssemblyInfo.cs
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/DotNetPractice2.csproj.CoreCompileInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/DotNetPractice2.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/refint/DotNetPractice2.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/DotNetPractice2.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/DotNetPractice2.genruntimeconfig.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/DotNetPractice2/obj/Debug/net10.0/ref/DotNetPractice2.dll
