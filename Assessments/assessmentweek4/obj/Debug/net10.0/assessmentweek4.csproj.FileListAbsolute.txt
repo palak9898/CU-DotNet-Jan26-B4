@@ -1,0 +1,15 @@
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/bin/Debug/net10.0/assessmentweek4
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/bin/Debug/net10.0/assessmentweek4.deps.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/bin/Debug/net10.0/assessmentweek4.runtimeconfig.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/bin/Debug/net10.0/assessmentweek4.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/bin/Debug/net10.0/assessmentweek4.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.AssemblyInfoInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.AssemblyInfo.cs
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.csproj.CoreCompileInputs.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.sourcelink.json
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/refint/assessmentweek4.dll
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.pdb
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/assessmentweek4.genruntimeconfig.cache
+/Users/palakarora/Desktop/Projects/dotNET practice/CU-DotNet-Jan26-B4/Assessments/assessmentweek4/obj/Debug/net10.0/ref/assessmentweek4.dll
