@@ -125,6 +125,7 @@ namespace OOPSLearning
             PrincipalAmount = 100,
             TenureInYears = 2
         };
+         
          Loan[] loan1 = new Loan[4]
          {
             new HomeLoan(),

@@ -31,7 +31,7 @@ namespace OOPSPractice
             return id;
         }
 
-        // AUTOPROPERTY
+        // AUTOIMPLEMENTEDPROPERTY
         public string Name { get; set; }
 
         // FULLPROPERTY

@@ -49,7 +49,8 @@ class Day10
     }
 
     static void ReadWeeklySales(decimal[] sales)
-    {
+    {   
+        #region validate
         Console.WriteLine("Enter sales for a week:");
         for (int i = 0; i < 7; i++)
         {
@@ -64,6 +65,7 @@ class Day10
                 Console.WriteLine("Invalid input. Enter a positive number.");
             }
         }
+        #endregion 
 
     }
 
@@ -74,7 +76,7 @@ class Day10
 
     static decimal CalculateAverage(decimal totalSales, int days)
     {
-        return totalSales / days;
+        return totalSales/ days;
     }
 
     static decimal FindHighestSale(decimal[] sales, out int day)
@@ -103,7 +105,7 @@ class Day10
 
     static decimal CalculateTax(decimal amount)
     {
-        return (18 * amount) / 100;
+        return (18 * amount)/ 100;
     }
 
     static decimal CalculateFinalAmount(decimal total, decimal discount, decimal tax, decimal extraDiscount)
